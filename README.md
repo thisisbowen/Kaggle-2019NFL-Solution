@@ -1,4 +1,4 @@
-# Kaggle-2019NFL-Solution
+# Kaggle-2019NFL-Top3%-Solution
 
 ## Problem to Solve
 NFL Big Data Bowl hosted by [Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020)  
