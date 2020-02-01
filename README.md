@@ -7,13 +7,6 @@ Predicting [American Football](https://en.wikipedia.org/wiki/American_football) 
 
 ### evaluation me
 Continuous Ranked Probability Score (CRPS) is derived based on the predicted scalar value.
-The CRPS is computed as follows:
-$$
-C=\frac{1}{199N}\sum_{m=1}^N\sum_{n=-99}^{99}(P(y\geq n)-H(n-Y_m))^2
-$$
-$H(x)=1$ if $x\geq 0$ else $0$
-
-## Feature Ideas
 
 ## Model Structure
 
@@ -25,6 +18,3 @@ model.add(Dense(128,activation='relu'))
 model.add(Dense(128,activation='relu'))
 model.add(Dense(199,activation='softmax'))
 ```
-
-
-## Things we didn't do well
