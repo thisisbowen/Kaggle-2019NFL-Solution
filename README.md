@@ -1,4 +1,5 @@
 # Kaggle-2019NFL-Top3%-Solution
+Team member: [Gavin Chen](https://github.com/WeijunChen) and me.
 
 ## Problem to Solve
 NFL Big Data Bowl hosted by [Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020)  
